@@ -1,4 +1,4 @@
-### Budget Tools ###
+# Budget Tools #
 
 This is an andoid app that I created to help me track my expenses.
 It currently comes with 
@@ -8,6 +8,6 @@ It currently comes with
 - Connection to cloud firebase
 - Google authentication
 
-## Note ##
+### Note ###
 If cloning, you will need to create own google-servies.json
 local.properties
