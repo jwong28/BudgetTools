@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Budget Tools</string>
+    <string-array name="tip_percents">
+        <item>15%</item>
+        <item>18%</item>
+        <item>20%</item>
+        <item>22%</item>
+        <item>25%</item>
+        <item>30%</item>
+    </string-array>
+</resources>
